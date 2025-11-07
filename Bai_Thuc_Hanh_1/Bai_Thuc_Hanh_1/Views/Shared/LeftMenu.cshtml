@@ -1,0 +1,28 @@
+﻿@{
+    var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+}
+
+<div class="d-flex flex-column p-3">
+    <h5 class="border-bottom pb-2 mb-3">Menu</h5>
+    <ul class="nav nav-pills flex-column gap-1">
+
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Home" && currentAction == "Index" ? "active" : "")" href="/">
+                <i class="fa-solid fa-gauge"></i> Dashboard
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Student" && currentAction == "List" ? "active" : "")" href="/Admin/Student/List">
+                <i class="fa-solid fa-user-graduate"></i> Students
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Course" ? "active" : "")" href="/Admin/Course/List">
+                <i class="fa-solid fa-book"></i> Courses
+            </a>
+        </li>
+    </ul>
+</div>
