@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|solutionrelative:bai_thuc_hanh_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C5D846A-4347-488C-AE06-85A6E8781A8B}|Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1.csproj|c:\\users\\admin\\downloads\\file hoc dai hoc\\lap trinh web\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\bai_thuc_hanh_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,84 +74,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MyLayoutHelper.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T08:38:21.55Z",
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:47:54.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:39:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RenderLeftMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-07T08:20:00.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\ViewComponents\\RenderViewComponent.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\ViewComponents\\RenderViewComponent.cs",
               "RelativeToolTip": "Bai_Thuc_Hanh_1\\ViewComponents\\RenderViewComponent.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA4wA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T08:03:58.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
-              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T08:01:22.163Z",
+              "WhenOpened": "2025-11-13T13:31:51.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-17T05:36:40.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LeftMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
-              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
-              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Shared\\LeftMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:39:34.72Z",
+              "WhenOpened": "2025-11-07T08:38:21.55Z",
               "EditorCaption": ""
             },
             {
@@ -169,41 +169,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T05:36:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Views\\Student\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Bai_Thuc_Hanh_1\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-17T08:34:46.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Models\\Student.cs",
               "RelativeToolTip": "Bai_Thuc_Hanh_1\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T05:18:04.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\File hoc dai hoc\\Lap trinh web\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Bai_Thuc_Hanh_1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T05:23:17.088Z",
               "EditorCaption": ""
             },
             {
@@ -216,8 +216,7 @@
               "RelativeToolTip": "Bai_Thuc_Hanh_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T04:28:37.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T04:28:37.089Z"
             },
             {
               "$type": "Document",

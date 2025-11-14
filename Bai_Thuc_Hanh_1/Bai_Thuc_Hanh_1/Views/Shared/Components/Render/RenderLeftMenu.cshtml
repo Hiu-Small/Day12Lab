@@ -1,12 +1,43 @@
 ﻿@model IEnumerable<Bai_Thuc_Hanh_1.Models.MenuItem>
 
+<style>
+    /* Thêm style để các nav-link hiển thị đúng dạng cột dọc */
+
+    .nav {
+        display: flex; /* Bật Flexbox cho container menu */
+        flex-direction: column; /* Quan trọng: Xếp các mục menu theo cột dọc */
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+    }
+
+    .nav-link {
+        display: block; /* Đảm bảo nav-link chiếm toàn bộ chiều rộng */
+        padding: 0.75rem 1rem; /* Tạo khoảng cách cho mục menu */
+        color: rgba(0, 255, 0); /* Màu chữ mặc định */
+        text-decoration: none; /* Loại bỏ gạch chân mặc định */
+    }
+
+        .nav-link:hover {
+            color: rgba(0, 255, 0); /* Thay đổi màu khi di chuột */
+        }
+
+    /* Kiểu dáng cho phần heading trong menu */
+    .sb-sidenav-menu-heading {
+        /* (Code này bạn đã có, đảm bảo nó nằm ở vị trí đúng) */
+        padding: 1.5rem 1rem 0.75rem 1rem;
+        font-size: 1rem;
+        color: rgba(0, 255, 0;
+    }
+</style>
+
 <div id="layoutSidenav_nav">
     <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
         <div class="sb-sidenav-menu">
             <div class="nav">
                 <div class="sb-sidenav-menu-heading">Core</div>
 
-                <a class="nav-link" href="/index.html">
+                <a class="nav-link" href="/home/index">
                     <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                     Dashboard
                 </a>
@@ -29,3 +60,31 @@
         </div>
     </nav>
 </div>
+
+@* @{
+    var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+}
+
+<div class="d-flex flex-column p-3">
+    <h5 class="border-bottom pb-2 mb-3">Menu</h5>
+    <ul class="nav nav-pills flex-column gap-1">
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Home" && currentAction == "Index" ? "active" : "")" href="/">
+                <i class="fa-solid fa-gauge"></i> Dashboard
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Student" && currentAction == "List" ? "active" : "")" href="/Admin/Student/List">
+                <i class="fa-solid fa-user-graduate"></i> Students
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(currentController == "Course" ? "active" : "")" href="/Admin/Course/List">
+                <i class="fa-solid fa-book"></i> Courses
+            </a>
+        </li>
+    </ul>
+</div> *@

@@ -14,7 +14,7 @@ namespace Bai_Thuc_Hanh_1.ViewComponents
                     Id = 1, Name = "Branches", Link="Branches/List"
                 },
                 new MenuItem() {
-                    Id = 2, Name = "Students", Link="Students/List"
+                    Id = 2, Name = "Students", Link="Student/List"
                 },
                 new MenuItem() {
                     Id = 3, Name = "Subjects", Link="Subjects/List"

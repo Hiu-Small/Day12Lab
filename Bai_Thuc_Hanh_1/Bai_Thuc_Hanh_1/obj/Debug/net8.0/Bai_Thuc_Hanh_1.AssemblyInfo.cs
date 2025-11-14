@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai_Thuc_Hanh_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c778ec6a7f02addb14d38fd182440bbfb9b6fad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai_Thuc_Hanh_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai_Thuc_Hanh_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
